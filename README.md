@@ -1,9 +1,6 @@
 <h2 align="left">Hi 👋! My name is Shakir Hussain and I'm a Applied Computer Science Student | Backend Dev in the Making</h2>
 
 ###
-
-<img align="right" height="150" src="https://media2.giphy.com/media/YS5sSs8AJ3Qrj9XuAM/giphy.gif?cid=6c09b9524emgkyczcvq8sd0909f3ni0uogl7er5w826pi6tb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
-
 ###
 
 <div align="left">
