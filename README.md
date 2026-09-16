@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shakir Hussain and I'm a Applied Computer Science Student | Backend Dev in the Making</h2>
+<h2 align="left">Hi 👋! My name is Shakir Hussain</h2>
 
 ###
 ###
