@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="30" alt="cisco logo" />
+  <img src="https://cdn.simpleicons.org/cisco" height="30" alt="cisco logo" />
 </div>
 
 ###
